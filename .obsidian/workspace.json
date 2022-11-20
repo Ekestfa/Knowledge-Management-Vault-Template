@@ -11,9 +11,11 @@
             "id": "9f7298ab1cc7c6cb",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "GOAL KANBAN.md"
+                "file": "README.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GOAL KANBAN.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "GOAL KANBAN.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,8 +158,9 @@
     "direction": "horizontal",
     "width": 398.5
   },
-  "active": "73eb4ad80e1799b5",
+  "active": "9f7298ab1cc7c6cb",
   "lastOpenFiles": [
+    "GOAL KANBAN.md",
     "INDEX.md",
     "README.md",
     "PROJECT KANBAN.md",
@@ -166,7 +169,6 @@
     "Permanent Notes/;PRJ-sadflk.md",
     "Permanent Notes/;PRJ-Demo Project.md",
     "Permanent Notes/;PRJ Demo Project.md",
-    "; Demo Project.md",
-    "GOAL KANBAN.md"
+    "; Demo Project.md"
   ]
 }
