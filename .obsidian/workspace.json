@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "5c0f51d91321eb04",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab53ba02fb7b7802",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f7298ab1cc7c6cb",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "GOAL KANBAN.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6cb5dbee89a6ca32",
+    "type": "split",
+    "children": [
+      {
+        "id": "9af81796afa37e43",
+        "type": "tabs",
+        "dimension": 61.82692307692308,
+        "children": [
+          {
+            "id": "ffeb601ef40445d4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a19d8a8510127771",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Type",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4beacf819c504d93",
+        "type": "tabs",
+        "dimension": 38.17307692307692,
+        "children": [
+          {
+            "id": "d71e12f59eaf086d",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 363.5
+  },
+  "right": {
+    "id": "3f0230e5d272638e",
+    "type": "split",
+    "children": [
+      {
+        "id": "84269476a6cac576",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38d84c2d7ffe296d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "GOAL KANBAN.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2bc3269f8896366e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "73eb4ad80e1799b5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8bc7a93991b2cbb9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "GOAL KANBAN.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "cade5b86902c7614",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3964685d632fd224",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 398.5
+  },
+  "active": "73eb4ad80e1799b5",
+  "lastOpenFiles": [
+    "INDEX.md",
+    "README.md",
+    "PROJECT KANBAN.md",
+    "Hub Notes/2022-11-21 - Demo goal.md",
+    "Templates/Project Item Template.md",
+    "Permanent Notes/;PRJ-sadflk.md",
+    "Permanent Notes/;PRJ-Demo Project.md",
+    "Permanent Notes/;PRJ Demo Project.md",
+    "; Demo Project.md",
+    "GOAL KANBAN.md"
+  ]
+}
