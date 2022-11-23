@@ -3,10 +3,10 @@ tags: ["work-item-list"]
 alias: 
 created-at: "{{date}} {{time}}"
 project: 
-content: []
+contents: []
 ---
 %%
-related-kanban::
+kanban-related::
 %%
 # {{title}}
 *Created at {{date}} {{time}}*

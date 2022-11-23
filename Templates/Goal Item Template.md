@@ -2,6 +2,7 @@
 tags: goal
 alias: {{VALUE:Goal}}
 created-at: "{{date}} {{time}}"
+contents: []
 status:
 Type: 
 Progress: 0
@@ -21,14 +22,28 @@ Projects::
 
 ## Roadmap
 
-## Discussion
-
-### Created projects
-```dataviewjs
-const pages = dv.current().file.inlinks.where(p => dv.page(p.path).tags?.contains('project'));
-
-dv.table(["Project", "Status"], pages.map(p => {
-	const page = dv.page(p.path); 
-	return [page.file.link, page.status]
-}));
+## Related Projects
+```dataview
+TABLE WITHOUT ID
+	link(file.name,alias) as "Project Name",
+	status as Status,
+	work-item-number as "Work Items",
+	kanban-board as Board,
+	created-at as "Creation Time"
+FROM #project
+WHERE parent = this.file.name OR contains(goals, this.file.name)
 ```
+
+## Related Scenarios
+```dataview
+TABLE WITHOUT ID
+	link(file.name,alias) as "Scenario",
+	status as Status,
+	level as Level,
+	kanban-board as Board,
+	created-at as "Creation Time"
+FROM #project
+WHERE parent = this.file.name OR contains(goals, this.file.name)
+```
+
+## Discussion

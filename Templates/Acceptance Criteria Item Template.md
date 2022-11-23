@@ -2,9 +2,8 @@
 tags: ["acceptance-criteria"]
 created-at: "{{date}} {{time}}"
 status:
-related:
+parent:
 contents: []
-modules: []
 description: ""
 ---
 # {{title}}

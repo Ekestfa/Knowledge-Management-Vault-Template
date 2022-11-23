@@ -4,13 +4,13 @@ tags: ["task"]
 created-at: "{{date}} {{time}}"
 parent:
 responsible: []
-content: []
+contents: []
 progress: "0"
 status: ""
 remark: " "
 ---
 %%
-related-kanban:: [[]]
+kanban-related:: 
 %%
 # {{title}}
 *Created at {{date}} {{time}}*

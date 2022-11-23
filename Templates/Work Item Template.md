@@ -26,7 +26,7 @@ TABLE WITHOUT ID
 	modules as "Related Modules",
 	description as Description
 FROM #acceptance-criteria 
-WHERE contains(related, this.file.name)
+WHERE contains(parent, this.file.name)
 ```
 
 ## Dependencies
