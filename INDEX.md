@@ -38,3 +38,29 @@ TABLE WITHOUT ID
 FROM #SUBMOC
 WHERE !contains(file.name, "Template")
 ```
+
+## Permanent Notes
+List of permanent notes, which status is not `done`.
+
+```dataview
+TABLE WITHOUT ID
+	link(file.name, alias) as "Permanent Notes",
+	created-at as "Creation Time"
+FROM #permanent 
+WHERE !contains(file.name, "Template") AND progress = "done"
+```
+
+
+## Literature Notes
+List of permanent notes, which status is not `done`.
+
+```dataview
+TABLE WITHOUT ID
+	link(file.name, alias) as "Literature Notes",
+	created-at as "Creation Time",
+	information-gathering as "5W1H",
+	source-type as "Source Type",
+	remark as Remark
+FROM #literature  
+WHERE !contains(file.name, "Template") AND progress != "done"
+```

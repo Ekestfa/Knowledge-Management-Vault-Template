@@ -1,12 +1,13 @@
 ---
 tags: ["literature"]
 alias: ""
-from: ["book", "web"]
+source-type: ["book", "web"]
 created-at: "{{date}} {{time}}"
-information-gatharing: ["what", "when", "which", "why", "who", "how"]
+information-gathering: ["what", "when", "which", "why", "who", "how"]
 parent: []
 contents: []
 progress: ""
+remark: ""
 ---
 # {{title}}
 *Created at {{date}} {{time}}*
