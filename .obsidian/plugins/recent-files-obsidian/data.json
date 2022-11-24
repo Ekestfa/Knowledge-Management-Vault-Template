@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "PROJECT KANBAN",
-      "path": "PROJECT KANBAN.md"
+      "basename": "Project Item Template",
+      "path": "Templates/Project Item Template.md"
+    },
+    {
+      "basename": "Goal Item Template",
+      "path": "Templates/Goal Item Template.md"
+    },
+    {
+      "basename": "INDEX",
+      "path": "INDEX.md"
     },
     {
       "basename": "GOAL KANBAN",
       "path": "GOAL KANBAN.md"
+    },
+    {
+      "basename": "PROJECT KANBAN",
+      "path": "PROJECT KANBAN.md"
     },
     {
       "basename": "Untitled Fleeting Note",
@@ -25,24 +37,12 @@
       "path": "Templates/SUBMOC Template.md"
     },
     {
-      "basename": "Project Item Template",
-      "path": "Templates/Project Item Template.md"
-    },
-    {
       "basename": "HUB Template",
       "path": "Templates/HUB Template.md"
     },
     {
       "basename": "Untitled Hub",
       "path": "Hub Notes/Untitled Hub.md"
-    },
-    {
-      "basename": "INDEX",
-      "path": "INDEX.md"
-    },
-    {
-      "basename": "Goal Item Template",
-      "path": "Templates/Goal Item Template.md"
     },
     {
       "basename": "Task Template",

@@ -59,9 +59,11 @@
             "id": "28b4a40813bf3f70",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "PROJECT KANBAN.md"
+                "file": "Templates/Project Item Template.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -194,7 +196,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PROJECT KANBAN.md",
+                "file": "Templates/Project Item Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -230,7 +232,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PROJECT KANBAN.md",
+                "file": "Templates/Project Item Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -261,15 +263,15 @@
   },
   "active": "28b4a40813bf3f70",
   "lastOpenFiles": [
+    "Templates/Goal Item Template.md",
+    "INDEX.md",
     "GOAL KANBAN.md",
+    "PROJECT KANBAN.md",
     "Fleeting Notes/Untitled Fleeting Note.md",
     "Permanent Notes/Untitled Permanent Note.md",
     "Literature Notes/Untitled Literature Note.md",
     "Templates/SUBMOC Template.md",
     "Templates/Project Item Template.md",
-    "Templates/HUB Template.md",
-    "Hub Notes/Untitled Hub.md",
-    "PROJECT KANBAN.md",
-    "INDEX.md"
+    "Templates/HUB Template.md"
   ]
 }
