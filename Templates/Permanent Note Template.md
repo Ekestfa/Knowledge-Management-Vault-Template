@@ -6,14 +6,13 @@ information-gatharing: ["what", "when", "which", "why", "who", "how"]
 parent: []
 contents: []
 progress: ""
+remark: ""
 ---
 # {{title}}
 *Created at {{date}} {{time}}*
 *Links:*
 
 ---
-
-## Intent
 
 ## Content
 *Content...*

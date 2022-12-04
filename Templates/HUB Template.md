@@ -5,3 +5,9 @@ contents: []
 priority: ""
 parent: []
 ---
+# {{title}}
+```dataview
+TABLE WITHOUT ID
+
+FROM #
+```

@@ -1,9 +1,12 @@
 ---
-tags: ["permanent", "problem-solving"]
+tags: ["scenario", "problem-solving"]
 alias: ""
 created-at: "{{date}} {{time}}"
+parent: [""]
 contents: [""]
 description: ""
+level: ""
+status: ""
 progress: ""
 ---
 # {{title}}

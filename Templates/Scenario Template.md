@@ -3,13 +3,16 @@ tags: ["scenario"]
 alias: ""
 created-at: "{{date}} {{time}}"
 level: ""
-status: ""
 parent: []
 contents: []
+status: ""
+progress:
 ---
 # {{title}}
 *Created at {{date}} {{time}}*
 *Link:* 
+
+## Questions/Cues
 
 ## Scenario Description
 *Text..*
@@ -42,5 +45,7 @@ WHERE parent = this.file.name
 ## Approach Description
 
 ## Discussions
+
+## Summary
 
 ## References
