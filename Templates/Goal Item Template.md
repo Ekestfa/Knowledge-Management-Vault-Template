@@ -1,7 +1,7 @@
 ---
 tags: goal
 alias: {{VALUE:Goal}}
-created-at: "{{date}} {{time}}"
+created-at: "{{DATE:YYYY-MM-DD HH:mm}}"
 contents: []
 status:
 Type: 

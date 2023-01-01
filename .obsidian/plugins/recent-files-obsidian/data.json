@@ -1,5 +1,14 @@
 {
-  "recentFiles": [],
+  "recentFiles": [
+    {
+      "basename": "Goal Item Template",
+      "path": "Templates/Goal Item Template.md"
+    },
+    {
+      "basename": "Permanent Note Template",
+      "path": "Templates/Permanent Note Template.md"
+    }
+  ],
   "omittedPaths": [],
   "maxLength": null
 }

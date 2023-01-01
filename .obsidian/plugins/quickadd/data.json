@@ -32,12 +32,12 @@
             "templatePath": "Templates/Goal Item Template.md",
             "fileNameFormat": {
               "enabled": true,
-              "format": "{{DATE}} - {{VALUE:Goal}}"
+              "format": ";G {{DATE:YYYYMMDD-HHmm}} - {{VALUE:Goal}}"
             },
             "folder": {
               "enabled": true,
               "folders": [
-                "Hub Notes"
+                "Permanent Notes"
               ],
               "chooseWhenCreatingNote": false,
               "createInSameFolderAsActiveFile": false
@@ -78,7 +78,7 @@
             },
             "format": {
               "enabled": true,
-              "format": "[[{{DATE}} - {{VALUE:Goal}}|{{VALUE:Goal}}]]"
+              "format": "[[;G {{DATE:YYYYMMDD-HHmm}} - {{VALUE:Goal}}|{{VALUE:Goal}}]]"
             },
             "insertAfter": {
               "enabled": true,
@@ -117,7 +117,7 @@
             "templatePath": "Templates/Project Item Template.md",
             "fileNameFormat": {
               "enabled": true,
-              "format": ";PRJ-{{VALUE:⚒ Add Project}}"
+              "format": ";P {{DATE:YYYYMMDD-HHmm}} - {{VALUE:⚒ Add Project}}"
             },
             "folder": {
               "enabled": true,
@@ -163,7 +163,7 @@
             },
             "format": {
               "enabled": true,
-              "format": "[[;PRJ-{{VALUE:⚒ Add Project}}|{{VALUE:⚒ Add Project}}]]"
+              "format": "[[;P {{DATE:YYYYMMDD-HHmm}} - {{VALUE:⚒ Add Project}}|{{VALUE:⚒ Add Project}}]]"
             },
             "insertAfter": {
               "enabled": true,
