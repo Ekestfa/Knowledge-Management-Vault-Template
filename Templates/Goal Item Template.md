@@ -11,7 +11,7 @@ Reason: {{VALUE:Why this goal?}}
 Timespan: {{VALUE:10 Years, 5 Years, 3 Years, 1 Year, 6 Months, 1 Month, 1 Week}}
 ---
 %%
-Bar:: `$= dv.view('progress-bar', {file: '{{DATE}} - {{VALUE:Goal}}'})`
+Bar:: `$= dv.view('progress-bar', {file: ';G {{DATE:YYYYMMDD-HHmm}} - {{VALUE:Goal}}'})`
 Projects:: 
 %%
 

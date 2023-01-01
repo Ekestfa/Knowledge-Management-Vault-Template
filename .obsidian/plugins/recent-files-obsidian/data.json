@@ -1,30 +1,5 @@
 {
-  "recentFiles": [
-    {
-      "basename": "Project Item Template",
-      "path": "Templates/Project Item Template.md"
-    },
-    {
-      "basename": "Scenario Template",
-      "path": "Templates/Scenario Template.md"
-    },
-    {
-      "basename": "PROJECT KANBAN",
-      "path": "PROJECT KANBAN.md"
-    },
-    {
-      "basename": "GOAL KANBAN",
-      "path": "GOAL KANBAN.md"
-    },
-    {
-      "basename": "Goal Item Template",
-      "path": "Templates/Goal Item Template.md"
-    },
-    {
-      "basename": "Permanent Note Template",
-      "path": "Templates/Permanent Note Template.md"
-    }
-  ],
+  "recentFiles": [],
   "omittedPaths": [],
   "maxLength": null
 }

@@ -11,11 +11,9 @@
             "id": "38076ae9396f86af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "kanban",
               "state": {
-                "file": "Templates/Project Item Template.md",
-                "mode": "source",
-                "source": false
+                "file": "PROJECT KANBAN.md"
               }
             }
           }
@@ -93,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Project Item Template.md",
+                "file": "PROJECT KANBAN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Project Item Template.md",
+                "file": "PROJECT KANBAN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,15 +171,15 @@
   },
   "active": "38076ae9396f86af",
   "lastOpenFiles": [
+    "Permanent Notes/;G 20230101-1622 - asldkf.md",
+    "GOAL KANBAN.md",
+    "Templates/Goal Item Template.md",
+    "Permanent Notes/;G 20230101-1621 - Demo.md",
+    "INDEX.md",
+    "Permanent Notes/;G 20230101-1620 - Learn Spring.md",
+    "Templates/Project Item Template.md",
     "Templates/Scenario Template.md",
     "PROJECT KANBAN.md",
-    "GOAL KANBAN.md",
-    "Templates/Project Item Template.md",
-    "Templates/Goal Item Template.md",
-    "Templates/Permanent Note Template.md",
-    "INDEX.md",
-    "Templates/Acceptance Criteria Item Template.md",
-    "Templates/Algorithmic Problem Solution Implementation Template.md",
-    "Templates/Daily Note Template.md"
+    "Templates/Permanent Note Template.md"
   ]
 }
