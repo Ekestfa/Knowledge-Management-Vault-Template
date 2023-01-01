@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Goal Item Template.md",
+                "file": "Templates/Project Item Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Goal Item Template.md",
+                "file": "Templates/Project Item Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Goal Item Template.md",
+                "file": "Templates/Project Item Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,15 +173,15 @@
   },
   "active": "38076ae9396f86af",
   "lastOpenFiles": [
+    "Templates/Scenario Template.md",
+    "PROJECT KANBAN.md",
+    "GOAL KANBAN.md",
+    "Templates/Project Item Template.md",
+    "Templates/Goal Item Template.md",
     "Templates/Permanent Note Template.md",
     "INDEX.md",
     "Templates/Acceptance Criteria Item Template.md",
     "Templates/Algorithmic Problem Solution Implementation Template.md",
-    "Templates/Daily Note Template.md",
-    "Templates/Weekly Note Template.md",
-    "Templates/Fleeting Note Template.md",
-    "Templates/Book Note Template.md",
-    "Templates/Literature Note Template.md",
-    "PROJECT KANBAN.md"
+    "Templates/Daily Note Template.md"
   ]
 }

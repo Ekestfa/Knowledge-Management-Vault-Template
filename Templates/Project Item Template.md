@@ -1,7 +1,7 @@
 ---
 tags: project
 alias: "{{VALUE:⚒ Add Project}}"
-created-at: "{{date}} {{time}}"
+created-at: "{{DATE:YYYY-MM-DD HH:mm}}"
 contents: []
 related: 
 subtitle: "{{VALUE:Project Subtitle}}"
